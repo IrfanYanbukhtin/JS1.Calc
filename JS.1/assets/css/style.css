@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+.container2 {
+  padding: 0rem 5rem;
+}
+
+input {
+  margin: 5rem 15rem;
+}
+
+button {
+  padding: 1.5rem 4rem;
+  margin: 5rem 1rem;
+}/*# sourceMappingURL=style.css.map */
